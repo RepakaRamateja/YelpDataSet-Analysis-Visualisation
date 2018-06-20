@@ -25,13 +25,27 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch.png)
 
-![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch2.png)
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arc.png)
 
-• Ingesting data from relational database using Sqoop
+
+• Import data from yelp dataset into relational database(MySQL)
+   
+    please go through file(get_yelp_in_mysql_databaset.txt) for more information 
+
+• Ingesting data from relational database (MySQL) using Sqoop into Hadoop HDFS
+
+    please go through file(yelp_mysql_sqoop_commands.txt) for more information 
 
 • Ingesting data from relational database directly into Spark
 
 •  Processing relational data in Spark
 
 •  Ingesting processed data into Elasticsearch
+
+•  Visualizing review analytics using Kibana
+
+
+## Technology stack
+
+
 
