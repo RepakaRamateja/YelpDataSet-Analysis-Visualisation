@@ -47,5 +47,51 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 ## Technology stack
 
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/tech.png)
+
+</br>    
+
+
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+        <td>DataSet </td>
+        <td> Yelp </td>
+    </tr>
+    <tr>
+        <td>Relational Database</td>
+        <td>MySQL</td>
+    </tr>
+
+    <tr>
+        <td>Big Data Ingestion Tool</td>
+        <td>Hadoop (Sqoop) </td>
+    </tr>
+
+    <tr>
+        <td>Distributed File System</td>
+        <td> Hadoop (HDFS) </td>
+    </tr>
+
+    <tr>
+        <td>Cluster Computing Framework</td>
+        <td>Apache Spark (Scala) </td>
+    </tr>
+    <tr>
+        <td>Search and Analytics Engine </td>
+        <td>Elasticsearch</td>
+    </tr>  
+</tbody>
+</table>
+
+</br>   
+
+
 
 
