@@ -25,7 +25,7 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch.png)
 
-![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arc.png)
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/ar.png)
 
 
 • Import data from yelp dataset into relational database(MySQL)
