@@ -23,7 +23,7 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 ## Architecture
 
-![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch1.png)
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch.png)
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch2.png)
 
