@@ -22,3 +22,16 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 </br>
 
 ## Architecture
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch1.png)
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/arch2.png)
+
+• Ingesting data from relational database using Sqoop
+
+• Ingesting data from relational database directly into Spark
+
+•  Processing relational data in Spark
+
+•  Ingesting processed data into Elasticsearch
+
