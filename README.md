@@ -47,7 +47,7 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 ## Technology stack
 
-![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/tech.png)
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/tec.png)
 
 </br>    
 
