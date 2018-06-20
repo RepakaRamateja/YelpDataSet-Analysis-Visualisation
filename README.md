@@ -18,3 +18,7 @@ Beyond processing this data, we will ingest the final output of our data process
 ## Goal
 
 The goal of this Spark project is to analyze business reviews from Yelp dataset and ingest the final output of data processing in Elastic Search.Also, use the visualisation tool in the ELK stack to visualize various kinds of ad-hoc reports from the data.
+
+</br>
+
+## Architecture
