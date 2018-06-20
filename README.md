@@ -155,15 +155,15 @@ https://www.youtube.com/watch?v=SFJsuo2XISs
 
 Aggregation
 
-  Date Histogram
+     Date Histogram
 
 Field
 
-  create_date
+     create_date
 
 Interval
 
-  Monthly  
+     Monthly  
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/2.png)
 
