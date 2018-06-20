@@ -1,0 +1,66 @@
+{
+    "mappings": {
+        "business": {
+            "properties": {
+                "address": { "type": "text", "analyzer": "snowball" },
+                "business_hours": {
+                    "properties": {
+                        "close": {
+                            "type": "keyword"
+                        },
+                        "open": {
+                            "type": "keyword"
+                        },
+                        "day": {
+                            "type": "keyword",
+                            "fields": {
+                                "raw": {
+                                    "type": "text"
+                                }
+                            }
+                        }
+                    }
+                },
+                "categories": {
+                    "type": "keyword",
+                    "fields": {
+                        "searchable": {
+                            "type": "text"
+                        }
+                    }
+                },
+                "city": {
+                    "type": "keyword"
+                },
+                "geo_location": {
+                    "type": "geo_point"
+                },
+                "id": {
+                    "type": "text",
+                    "index": false
+                },
+                "is_open": {
+                    "type": "boolean"
+                },
+                "name": {
+                    "type": "text"
+                },
+                "neighborhood": {
+                    "type": "keyword"
+                },
+                "postal_code": {
+                    "type": "keyword"
+                },
+                "review_count": {
+                    "type": "integer"
+                },
+                "stars": {
+                    "type": "float"
+                },
+                "state": {
+                    "type": "keyword"
+                }
+            }
+        }
+    }
+}
