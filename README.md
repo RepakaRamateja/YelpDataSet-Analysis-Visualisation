@@ -68,17 +68,14 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
         <td>Relational Database</td>
         <td>MySQL</td>
     </tr>
-
     <tr>
         <td>Big Data Ingestion Tool</td>
         <td>Hadoop (Sqoop) </td>
     </tr>
-
     <tr>
         <td>Distributed File System</td>
         <td> Hadoop (HDFS) </td>
     </tr>
-
     <tr>
         <td>Cluster Computing Framework</td>
         <td>Apache Spark (Scala) </td>
