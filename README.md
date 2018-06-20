@@ -89,6 +89,83 @@ The goal of this Spark project is to analyze business reviews from Yelp dataset 
 
 </br>   
 
+## Yelp schema
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/schema.png)
+
+Out of all attributes we will focus on some shown below 
+
+Business
+
+category
+
+hours
+
+Review
+
+</br>
+
+## Use Cases considered for Visualisation
+
+</br>
+
+
+   Top 15 Business Categories
+
+   Yelp Business Map
+
+   Business distribution by state
+
+   Average rating of business over time
+
+   Top rated businesses 
+
+   User sign up trend
+
+
+
+
+</br>
+
+## Configuring Environment
+
+</br>
+
+Installation of Cloudera quickstart VM
+
+Installation of Elk stack
+
+Later Configuring Scala Runtime to Cloudera QuickStart VM
+
+Watch the below video for more information 
+
+https://www.youtube.com/watch?v=SFJsuo2XISs
+
+</br>
+
+## Execution Instructions
+ 
+   Launch the Spark Shell
+
+   spark-shell --packages org.elasticsearch:elasticsearch-spark-13_2.10:6.1.1 --conf spark.es.index.auto.create=true --conf spark.es.nodes= Ipaddress:port(Elastic search)
+
+</br>
+
+## Screen shots of Visualisation
+
+Aggregation
+
+  Date Histogram
+
+Field
+
+  create_date
+
+Interval
+
+  Monthly  
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/2.png)
 
 
 
