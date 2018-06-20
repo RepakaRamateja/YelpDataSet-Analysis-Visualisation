@@ -1,0 +1,5 @@
+Dataset
+================
+The dataset for this hackerday session is the yelp dataset (https://www.yelp.com/dataset) in SQL format. This file is about 2.5G in size, so it is important to have the file downloaded before the class begins.
+
+The file will be installed in a mysql database, so having a mysql database is also necessary for this class.
