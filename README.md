@@ -153,19 +153,38 @@ https://www.youtube.com/watch?v=SFJsuo2XISs
 
 ## Screen shots of Visualisation
 
-Aggregation
+After Ingesting processed data into Elasticsearch
 
-     Date Histogram
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/1.png)
 
-Field
-
-     create_date
-
-Interval
-
-     Monthly  
+Yelp User
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/2.png)
+
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/3.png)
+
+
+Business distribution by state
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/5.png)
+
+
+Yelp review
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/review.png)
+
+Top 15 Business Categories
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/cat.png)
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/catdes.png)
+
+Dashboard 
+
+![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/dash.png)
+
+
 
 
 
