@@ -174,7 +174,7 @@ Yelp review
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/review.png)
 
-Top 15 Business Categories
+Top 10 Business Categories
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/cat.png)
 
