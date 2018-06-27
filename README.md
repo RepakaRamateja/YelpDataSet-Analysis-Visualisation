@@ -110,7 +110,7 @@ Review
 </br>
 
 
-   Top 15 Business Categories
+   Top 10 Business Categories
 
    Yelp Business Map
 
@@ -157,7 +157,7 @@ After Ingesting processed data into Elasticsearch
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/1.png)
 
-Yelp User
+Yelp User sign up trend
 
 ![alt text](https://github.com/RepakaRamateja/YelpDataSet-Analysis-Visualisation/blob/master/images/2.png)
 
